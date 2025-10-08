@@ -116,6 +116,8 @@ footer {
     background: rgba(0, 60, 120, 0.85);
     width: 100%;
     display: flex;
+    position: relative;
+    bottom: 0;
     justify-content: space-between;
     align-items: center;
     border: 1px solid rgba(0, 191, 255, 0.3);
@@ -354,3 +356,4 @@ footer p {
         gap: 5px;
     }
 }
+
