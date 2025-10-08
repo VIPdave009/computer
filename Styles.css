@@ -124,6 +124,8 @@ footer {
     box-shadow: 0 0 30px rgba(0, 191, 255, 0.5);
     padding: 10px 5%;
     flex-wrap: wrap;
+    postion: absolute;
+    bottom: 0;
 }
 
 footer p {
@@ -356,4 +358,5 @@ footer p {
         gap: 5px;
     }
 }
+
 
